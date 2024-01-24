@@ -4,8 +4,9 @@
              x:Class="Examen_WanderleyFloresWF.ViewsWF.paginaWF"
              Title="paginaWF">
     <VerticalStackLayout>
-        <Button Text="ConsultarWF" Clicked="Button_Clicked" HorizontalOptions="Center">
-        </Button>
+        <Button Text="ConsultarWF" Clicked="Button_Clicked" HorizontalOptions="Center"> </Button>
+        <Button Text="datos" Clicked="Button_Clicked" HorizontalOptions="Center"></Button>
+
         <Label Text=" noticia"></Label>
         
         <Label x:Name="Titulo"></Label>

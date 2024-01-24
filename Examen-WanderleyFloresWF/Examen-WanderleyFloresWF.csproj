@@ -57,6 +57,9 @@
 	  <MauiXaml Update="ViewsWF\paginaWF.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="ViewsWF\segunPaginaWF.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>
